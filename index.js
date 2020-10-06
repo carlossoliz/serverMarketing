@@ -1,1 +1,1 @@
-console.log('hola mundo')
+var servidor = require("./servidor/server"); 

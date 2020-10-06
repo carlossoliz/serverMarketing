@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/carlossoliz/serverMarketing/issues"
   },
-  "homepage": "https://github.com/carlossoliz/serverMarketing#readme"
+  "homepage": "https://github.com/carlossoliz/serverMarketing#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "js-pert": "^2.0.1",
+    "pg": "^8.3.3"
+  }
 }
